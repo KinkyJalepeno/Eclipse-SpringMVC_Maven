@@ -4,11 +4,13 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Spring MVC Baby !!!!</title>
+<title>Insert title here</title>
 </head>
 <body>
 
-	<h2>This has worked YAY!!!!</h2>
+Hello world of Spring !
+<br><br>
+Students name is ${param.studentName}
 
 </body>
 </html>
